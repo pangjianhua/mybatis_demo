@@ -1,6 +1,4 @@
-package com.example.demo.controller;/**
- * Created by pangjianhua on 2017/8/4.
- */
+package com.example.demo.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

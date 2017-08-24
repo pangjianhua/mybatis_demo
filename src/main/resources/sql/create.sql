@@ -36,4 +36,4 @@ CREATE TABLE `ORG_USER` (
 ) ENGINE=InnoDB AUTO_INCREMENT=7122681 DEFAULT CHARSET=utf8 COMMENT='用户表';
 
 
-insert into `ORG_USER` (`USER_NAME`,`USER_PWD`,`NAME`) VALUES ('庞建华的萨芬','fasdfasd','阿萨德发射点发');
+insert into `ORG_USER` (`USER_NAME`,`USER_PWD`,`NAME`) VALUES ('测试用户','sf','阿萨德发射点发');
