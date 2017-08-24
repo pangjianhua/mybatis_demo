@@ -16,6 +16,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "hell world";
+        return "hell worlsd";
     }
 }
